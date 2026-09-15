@@ -11,6 +11,7 @@ public class sumCulculator {
         if (start >= end){
             System.out.print("error!Start number should be less than end number");
         }else{int sum=0;
+            System.out.print("You are good!") //这是gry加的！
             for(int counter = start ; counter<=end ; counter++){
                 sum = sum+counter;
             }
