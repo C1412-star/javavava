@@ -15,6 +15,7 @@ public class sumCulculator {
                 sum = sum+counter;
             }
             System.out.println("the sum from " + start + " to " + end + " is:" +sum);
+            System.out.println("hello rainbowww!!")//C1412 add
 
         }
 
